@@ -1,0 +1,48 @@
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.deps.json
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.dll
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.pdb
+E:\Lessons\C#\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfoInputs.cache
+E:\Lessons\C#\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfo.cs
+E:\Lessons\C#\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csproj.CoreCompileInputs.cache
+E:\Lessons\C#\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.dll
+E:\Lessons\C#\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.pdb
+E:\Lessons\C#\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csprojAssemblyReference.cache
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\System.Security.dll
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\Accessibility.dll
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\System.Deployment.dll
+E:\Lessons\C#\Crypto\Crypto\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+E:\Lessons\C#\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csproj.CopyComplete
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.deps.json
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.pdb
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\System.Security.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\System.Configuration.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\Accessibility.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\System.Deployment.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csprojAssemblyReference.cache
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfoInputs.cache
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfo.cs
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csproj.CoreCompileInputs.cache
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csproj.CopyComplete
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.dll
+D:\Lessons\Третий курс (второй семестр)\Крипта\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.pdb
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.deps.json
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.dll
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\Crypto.pdb
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\System.Windows.Forms.dll
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\System.Security.dll
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\System.Configuration.dll
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\Accessibility.dll
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\System.Deployment.dll
+E:\Lessons\Crypto\Crypto\bin\Debug\netstandard2.0\System.Runtime.Serialization.Formatters.Soap.dll
+E:\Lessons\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csprojAssemblyReference.cache
+E:\Lessons\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfoInputs.cache
+E:\Lessons\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.AssemblyInfo.cs
+E:\Lessons\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csproj.CoreCompileInputs.cache
+E:\Lessons\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.csproj.CopyComplete
+E:\Lessons\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.dll
+E:\Lessons\Crypto\Crypto\obj\Debug\netstandard2.0\Crypto.pdb
